@@ -2,6 +2,8 @@
 
 Desenvolvedores:
 Lucas Araújo Brígido - Back/Front end
+
+
 Carlos Alberto Sampaio  - Front end
 
 
